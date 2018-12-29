@@ -1,2 +1,2 @@
-for i in 'SHIVAM':
-    print(i)
+for a in 'SHIVAM':
+    print(a)

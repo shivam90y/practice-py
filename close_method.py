@@ -1,5 +1,5 @@
 # Open a file
-fo = open("shiv.txt", "wb")
+fo = open("Shiv.txt", "wb")
 print ("Name of the file: ", fo.name)
 
 # Close opend file
