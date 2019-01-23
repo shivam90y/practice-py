@@ -2,7 +2,7 @@
 
 tuplex = ("S", "h", "i", "v", "a", "m", 90, "y")
 print(tuplex)
-item = tuplex[3]
+item = tuplex[4]
 print(item)
 item1 = tuplex[-4]
 print(item1)

@@ -1,9 +1,11 @@
-tuplex = tuple("index tuple")
+# Write a Python program to find the index of an item of a tuple.
+
+tuplex = tuple("Shivam yadav")
 print(tuplex)
-index = tuplex.index("p")
+index = tuplex.index("d")
 print(index)
-index = tuplex.index("p", 5)
+index = tuplex.index("d", 5)
 print(index)
-index = tuplex.index("e", 3, 6)
+index = tuplex.index("s", 3, 6)
 print(index)
 index = tuplex.index("y")

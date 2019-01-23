@@ -1,0 +1,17 @@
+# Write a Python program to find the length of a tuple.
+
+tuplex= tuple("Shivam90y")
+print(tuplex)
+print(len(tuplex))
+tuplex2= tuple("Shivam yadav")
+print(tuplex2)
+print(len(tuplex2))
+tuplex3= tuple("Yaduvanshi")
+print(tuplex3)
+print(len(tuplex3))
+tuplex4= tuple("Technology")
+print(tuplex4)
+print(len(tuplex4))
+shivam= tuple("Police Department")
+print(shivam)
+print(len(shivam))
